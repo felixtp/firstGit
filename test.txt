@@ -1,0 +1,8 @@
+
+touch - creates a file
+mkdr - create a directory
+rmdr - removed the directory (all files must be deleted before deleting folder)
+ls - lsit
+pwd - print working directory
+nano - file editor
+
