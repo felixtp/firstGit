@@ -6,3 +6,9 @@ ls - lsit
 pwd - print working directory
 nano - file editor
 
+open -a Xcode file.ext
+git add
+git push
+git pull
+
+
